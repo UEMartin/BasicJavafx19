@@ -1,0 +1,15 @@
+.squirtton {
+	-fx-background-color: brown;	
+	-fx-border-color: brown;
+	-fx-background-repeat: no-repeat ;
+	-fx-background-position: center ;
+	-fx-background-image: url("../view/img/squirrel.png");
+}
+.squirtton:hover {
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+}
+.button:pressed {
+  -fx-background-color: red;
+  -fx-text-fill: white;
+  }
